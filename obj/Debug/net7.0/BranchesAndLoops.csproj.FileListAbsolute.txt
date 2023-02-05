@@ -3,3 +3,13 @@ C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.Generat
 C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.AssemblyInfoInputs.cache
 C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.AssemblyInfo.cs
 C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Desktop\branches-loop\bin\Debug\net7.0\BranchesAndLoops.exe
+C:\Users\Mariusz\Desktop\branches-loop\bin\Debug\net7.0\BranchesAndLoops.deps.json
+C:\Users\Mariusz\Desktop\branches-loop\bin\Debug\net7.0\BranchesAndLoops.runtimeconfig.json
+C:\Users\Mariusz\Desktop\branches-loop\bin\Debug\net7.0\BranchesAndLoops.dll
+C:\Users\Mariusz\Desktop\branches-loop\bin\Debug\net7.0\BranchesAndLoops.pdb
+C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.dll
+C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\refint\BranchesAndLoops.dll
+C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.pdb
+C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.genruntimeconfig.cache
+C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\ref\BranchesAndLoops.dll
