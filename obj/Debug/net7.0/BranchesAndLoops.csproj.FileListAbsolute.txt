@@ -1,0 +1,5 @@
+C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.csproj.AssemblyReference.cache
+C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.AssemblyInfo.cs
+C:\Users\Mariusz\Desktop\branches-loop\obj\Debug\net7.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
